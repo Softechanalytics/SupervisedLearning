@@ -3,7 +3,7 @@ Supervised Machine Learning Project | Classification | Logistic Regression
 By Chukwuemeka Isaac Anyakwu
 
 ## 📌 Overview
-This project focuses on predicting the likelihood of a liability customer opting for a personal loan. Thera Bank wants to improve the targeting strategy of its marketing campaigns, maximizing conversion rates while minimizing campaign costs.
+This project focuses on predicting the likelihood of a liable customer opting for a personal loan. Thera Bank wants to improve the targeting strategy of its marketing campaigns, maximizing conversion rates while minimizing campaign costs.
 
 Using customer demographic and behavioral data, we build a logistic regression model to identify potential personal loan buyers.
 
@@ -147,4 +147,11 @@ Edit
 
 ## 🙌 Acknowledgments
 This project is part of the Great Learning AIML Program and aims to build proficiency in supervised learning for real-world business problems.
+
+## Additional Resources
+
+[Data Source](https://github.com/Softechanalytics/MoviesProject_Python/tree/main/data)
+
+[Python Source code](https://github.com/Softechanalytics/MoviesProject_Python/blob/main/foundation%20for%20AIML%20Project1_isaacanyakwu.ipynb)
+
 
