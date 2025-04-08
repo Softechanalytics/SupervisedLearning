@@ -104,12 +104,19 @@ The dataset contains 5,000 customer records with 14 features:
 </ol>
 
 ## 📈 Results
-Metric	                                Score
-Accuracy:              	                XX.XX%
-Precision:                            	XX.XX%
-Recall:                                	XX.XX%
-F1-Score:                              	XX.XX%
-ROC-AUC:                              	XX.XX
+
+Metric	                                        Score
+
+Accuracy:              	                        XX.XX%
+
+Precision:                            	        XX.XX%
+
+Recall:                                        	XX.XX%
+
+F1-Score:                              	        XX.XX%
+
+ROC-AUC:                              	        XX.XX
+
 (Update with actual values after model evaluation)
 
 ## 🚀 Future Improvements
@@ -127,6 +134,7 @@ ROC-AUC:                              	XX.XX
 pgsql
 Copy
 Edit
+
 ├── AIML Project 2  Supervised Learning by Chukwuemeka Isaac Anyakwu.ipynb
 
 ├── Project SUL- Bank Loan_solution.ipynb
