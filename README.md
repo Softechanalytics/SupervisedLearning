@@ -152,7 +152,7 @@ This project is part of the Great Learning AIML Program and aims to build profic
 
 ## Additional Resources
 
-[Data Source](https://github.com/Softechanalytics/MoviesProject_Python/tree/main/data)
+[Data Source](https://github.com/Softechanalytics/SupervisedLearning/blob/main/Bank_Personal_Loan_Modelling.csv)
 
 [Python Source code](https://github.com/Softechanalytics/SupervisedLearning/blob/main/AIML%20Project%202%20%20Supervised%20Learning%20by%20Chukwuemeka%20Isaac%20Anyakwu.ipynb)
 
