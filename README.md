@@ -20,6 +20,8 @@ The dataset contains 5,000 customer records with 14 features:
 <li>Target Variable: Personal Loan (1 if accepted, 0 if not)</li>
 </ul>
 
+[Click to view code](https://github.com/Softechanalytics/SupervisedLearning/blob/main/AIML%20Project%202%20%20Supervised%20Learning%20by%20Chukwuemeka%20Isaac%20Anyakwu.ipynb)
+
 ## 🛠️ Tools & Libraries
 <ul>
 <li>Python</li>
@@ -152,6 +154,6 @@ This project is part of the Great Learning AIML Program and aims to build profic
 
 [Data Source](https://github.com/Softechanalytics/MoviesProject_Python/tree/main/data)
 
-[Python Source code](https://github.com/Softechanalytics/MoviesProject_Python/blob/main/foundation%20for%20AIML%20Project1_isaacanyakwu.ipynb)
+[Python Source code](https://github.com/Softechanalytics/SupervisedLearning/blob/main/AIML%20Project%202%20%20Supervised%20Learning%20by%20Chukwuemeka%20Isaac%20Anyakwu.ipynb)
 
 
