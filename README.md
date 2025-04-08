@@ -41,8 +41,10 @@ The dataset contains 5,000 customer records with 14 features:
 <li>Checked for missing/null values</li>
 
 <li>Summarized data statistics and correlations</li>
-</ull>
+</ul>
+
 ### 2. Exploratory Data Analysis (EDA)
+
 <ul>
 <li>Distribution of categorical and numerical features</li>
 
