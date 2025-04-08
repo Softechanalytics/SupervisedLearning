@@ -126,9 +126,13 @@ pgsql
 Copy
 Edit
 ├── AIML Project 2  Supervised Learning by Chukwuemeka Isaac Anyakwu.ipynb
+
 ├── Project SUL- Bank Loan_solution.ipynb
+
 ├── Bank_Personal_Loan_Modelling.csv
+
 ├── Problem Statement - Thera Bank Personal Loan Modelling Project.pdf
+
 ├── README.md
 
 ## 🙌 Acknowledgments
